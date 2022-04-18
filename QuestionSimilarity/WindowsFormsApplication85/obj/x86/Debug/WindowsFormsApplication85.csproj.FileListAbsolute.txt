@@ -1,0 +1,31 @@
+c:\users\mohammad\documents\visual studio 2010\Projects\WindowsFormsApplication85\WindowsFormsApplication85\obj\x86\Debug\WindowsFormsApplication85.Form1.resources
+c:\users\mohammad\documents\visual studio 2010\Projects\WindowsFormsApplication85\WindowsFormsApplication85\obj\x86\Debug\WindowsFormsApplication85.Properties.Resources.resources
+c:\users\mohammad\documents\visual studio 2010\Projects\WindowsFormsApplication85\WindowsFormsApplication85\obj\x86\Debug\WindowsFormsApplication85.csproj.GenerateResource.Cache
+c:\users\mohammad\documents\visual studio 2010\Projects\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\WindowsFormsApplication85.exe
+c:\users\mohammad\documents\visual studio 2010\Projects\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\WindowsFormsApplication85.pdb
+c:\users\mohammad\documents\visual studio 2010\Projects\WindowsFormsApplication85\WindowsFormsApplication85\obj\x86\Debug\WindowsFormsApplication85.exe
+c:\users\mohammad\documents\visual studio 2010\Projects\WindowsFormsApplication85\WindowsFormsApplication85\obj\x86\Debug\WindowsFormsApplication85.pdb
+c:\users\mohammad\documents\visual studio 2010\Projects\WindowsFormsApplication85\WindowsFormsApplication85\obj\x86\Debug\WindowsFormsApplication85.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\Accord.dll.config
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\Accord.dll
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\Accord.Math.Core.dll
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\Accord.Math.dll
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\Accord.xml
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\Accord.Math.xml
+C:\Users\Mohammad\Documents\Visual Studio 2010\Projects\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\Accord.Math.Core.xml
+C:\Users\Mohammad\documents\visual studio 2010\Projects\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\Centivus.EnglishStemmer.dll
+C:\Users\Mohammad\Downloads\WindowsFormsApplication85\WindowsFormsApplication85\obj\x86\Debug\WindowsFormsApplication85.exe
+C:\Users\Mohammad\Downloads\WindowsFormsApplication85\WindowsFormsApplication85\obj\x86\Debug\WindowsFormsApplication85.pdb
+C:\Users\Mohammad\Downloads\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\Accord.dll.config
+C:\Users\Mohammad\Downloads\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\WindowsFormsApplication85.exe
+C:\Users\Mohammad\Downloads\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\WindowsFormsApplication85.pdb
+C:\Users\Mohammad\Downloads\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\Accord.dll
+C:\Users\Mohammad\Downloads\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\Accord.Math.Core.dll
+C:\Users\Mohammad\Downloads\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\Accord.Math.dll
+C:\Users\Mohammad\Downloads\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\Accord.xml
+C:\Users\Mohammad\Downloads\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\Accord.Math.xml
+C:\Users\Mohammad\Downloads\WindowsFormsApplication85\WindowsFormsApplication85\bin\Debug\Accord.Math.Core.xml
+C:\Users\Mohammad\Downloads\WindowsFormsApplication85\WindowsFormsApplication85\obj\x86\Debug\WindowsFormsApplication85.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Downloads\WindowsFormsApplication85\WindowsFormsApplication85\obj\x86\Debug\WindowsFormsApplication85.Form1.resources
+C:\Users\Mohammad\Downloads\WindowsFormsApplication85\WindowsFormsApplication85\obj\x86\Debug\WindowsFormsApplication85.Properties.Resources.resources
+C:\Users\Mohammad\Downloads\WindowsFormsApplication85\WindowsFormsApplication85\obj\x86\Debug\WindowsFormsApplication85.csproj.GenerateResource.Cache

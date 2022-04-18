@@ -1,0 +1,15 @@
+C:\Users\Mohammad\Downloads\QuestionSimilarity\WindowsFormsApplication85\obj\x86\Debug\WindowsFormsApplication85.exe
+C:\Users\Mohammad\Downloads\QuestionSimilarity\WindowsFormsApplication85\obj\x86\Debug\WindowsFormsApplication85.pdb
+C:\Users\Mohammad\Downloads\QuestionSimilarity\WindowsFormsApplication85\bin\Debug\Accord.dll.config
+C:\Users\Mohammad\Downloads\QuestionSimilarity\WindowsFormsApplication85\bin\Debug\WindowsFormsApplication85.exe
+C:\Users\Mohammad\Downloads\QuestionSimilarity\WindowsFormsApplication85\bin\Debug\WindowsFormsApplication85.pdb
+C:\Users\Mohammad\Downloads\QuestionSimilarity\WindowsFormsApplication85\bin\Debug\Accord.dll
+C:\Users\Mohammad\Downloads\QuestionSimilarity\WindowsFormsApplication85\bin\Debug\Accord.Math.Core.dll
+C:\Users\Mohammad\Downloads\QuestionSimilarity\WindowsFormsApplication85\bin\Debug\Accord.Math.dll
+C:\Users\Mohammad\Downloads\QuestionSimilarity\WindowsFormsApplication85\bin\Debug\Accord.xml
+C:\Users\Mohammad\Downloads\QuestionSimilarity\WindowsFormsApplication85\bin\Debug\Accord.Math.xml
+C:\Users\Mohammad\Downloads\QuestionSimilarity\WindowsFormsApplication85\bin\Debug\Accord.Math.Core.xml
+C:\Users\Mohammad\Downloads\QuestionSimilarity\WindowsFormsApplication85\obj\x86\Debug\QuestionSimilarity.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Downloads\QuestionSimilarity\WindowsFormsApplication85\obj\x86\Debug\WindowsFormsApplication85.Form1.resources
+C:\Users\Mohammad\Downloads\QuestionSimilarity\WindowsFormsApplication85\obj\x86\Debug\WindowsFormsApplication85.Properties.Resources.resources
+C:\Users\Mohammad\Downloads\QuestionSimilarity\WindowsFormsApplication85\obj\x86\Debug\QuestionSimilarity.csproj.GenerateResource.Cache
